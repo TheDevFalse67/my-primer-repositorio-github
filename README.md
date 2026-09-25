@@ -2,3 +2,6 @@
 este es mi primero repositorio en la vida,
 
 acabo de editar este repositorio
+
+
+ESTOY ACTUALIZANDO EL README
